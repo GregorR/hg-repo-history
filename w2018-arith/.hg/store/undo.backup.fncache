@@ -1,0 +1,7 @@
+data/arith-lexer.c.i
+data/arith-treefix.h.i
+data/arith.c.i
+data/arith-parser.h.i
+data/arith-lexer.h.i
+data/arith-treefix.c.i
+data/arith-parser.c.i

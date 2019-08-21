@@ -1,0 +1,7 @@
+data/multibot_cmds/scmds/say.i
+data/buffer.h.i
+data/multibot_cmds/PRIVMSG/tr_21.cmd.i
+data/helpers.h.i
+data/multibot_cmds/scmds/help.i
+data/multibot.c.i
+data/multibot_cmds/scmds/test.i

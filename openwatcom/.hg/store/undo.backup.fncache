@@ -1,0 +1,14 @@
+data/build.sh.i
+data/dist.sh.i
+data/bld/lang.ctl.i
+data/buildfull.sh.i
+data/rel2-extras/binl/owranlib.i
+data/bld/build/local/local.mif.i
+data/cleanfull.sh.i
+data/.hgignore.i
+data/rel2-extras/binl/ranlib.i
+data/rel2-extras/binl/ar.i
+data/bld/re2c/master.mif.i
+data/rel2-extras/binl/owar.i
+data/bld/w32api/master.mif.i
+data/Makefile.i

@@ -1,0 +1,9 @@
+data/midifstream.c.i
+data/midifile.h.i
+data/midifilealloc.h.i
+data/midifstream.h.i
+data/midifile.c.i
+data/midi.h.i
+data/midifilealloc.c.i
+data/playfile.c.i
+data/Makefile.i

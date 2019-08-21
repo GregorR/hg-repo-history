@@ -1,0 +1,12 @@
+data/sja/buffer.h.i
+data/sja/helpers.h.i
+data/arch-instructions.c.i
+data/sja/sja.h.i
+data/x8664-instructions.c.i
+data/sja/x8664-instructions.h.i
+data/arch.c.i
+data/x8664.c.i
+data/Makefile.i
+data/test.c.i
+data/README.md.i
+data/sja/x8664.h.i

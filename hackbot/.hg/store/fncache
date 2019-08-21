@@ -1,0 +1,15 @@
+data/multibot_cmds/lib/interp.i
+data/multibot_cmds/lib/fetch.i
+data/runner.sh.i
+data/multibot_cmds/PRIVMSG/tr_21.cmd.i
+data/multibot_cmds/PRIVMSG/tr_60.cmd.i
+data/multibot_cmds/lib/sandbox.i
+data/README.md.i
+data/multibot_cmds/slox/Makefile.i
+data/multibot_cmds/lib/dcc.i
+data/multibot_cmds/slox/slox.c.i
+data/multibot_cmds/PRIVMSG/tr_3F.cmd.i
+data/multibot_cmds/lib/limits.i
+data/multibot_cmds/lib/server.i
+data/multibot_cmds/lib/revert.i
+data/multibot_cmds/lock.i

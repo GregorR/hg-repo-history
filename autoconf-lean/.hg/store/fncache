@@ -1,0 +1,9 @@
+data/config-site-generator/Makefile.am.i
+data/config-site-generator/configure.ac.i
+data/lean.m4.in.i
+data/template/Makefile.am.i
+data/config-site-generator/test.c.i
+data/template/configure.ac.i
+data/template/test.c.i
+data/Makefile.i
+data/README.md.i

@@ -1,0 +1,12 @@
+data/autotools-template/test.c.i
+data/autotools-template/scripts/mlibtool.m4.i
+data/autotools-template/configure.ac.i
+data/autotools-template/mlibtool.c.i
+data/acmlibtool.i
+data/README.i
+data/autotools-template/Makefile.am.i
+data/nomlibtool.sh.i
+data/mlibtool.c.i
+data/mlibtool.m4.i
+data/Makefile.i
+data/README.md.i

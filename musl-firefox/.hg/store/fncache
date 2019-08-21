@@ -1,0 +1,16 @@
+data/prereqs/build.sh.i
+data/patches/config-sub-musl.i
+data/prereqs/patches/alsa-lib-1.0.25-musl.diff.i
+data/prereqs/patches/alsa-lib_pcm_h.patch.i
+data/mozconfig.i
+data/prereqs/x.mods.i
+data/prereqs/tarballs/empty.i
+data/patches/series.i
+data/README.i
+data/prereqs/patches/dbus-1.6.2-musl.diff.i
+data/patches/firefox-musl.i
+data/prereqs/defs.sh.i
+data/prereqs/patches/alsa-lib_mask_inline.patch.i
+data/prereqs/config.sub.i
+data/README.md.i
+data/prereqs/config.sh.i
